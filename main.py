@@ -56,7 +56,7 @@ def atualizar_resultados():
 
 # Criação da janela principal
 janela = tk.Tk()
-janela.title("Informações do Dispositivo")
+janela.title("NDLogger")
 janela.geometry("500x400")
 
 # Estilo
